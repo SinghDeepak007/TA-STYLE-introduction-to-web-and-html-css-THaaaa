@@ -1,0 +1,33 @@
+body {
+    background-color: #26305E;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+    font-size: 12px;
+}
+h3 {
+    color: #2BA55B;
+    font-size: 23px;
+}
+h4 {
+    color: white;
+    font-size: 14px;
+}
+p {
+    color: whitesmoke;
+    font-style: n
+}
+li {
+    color: whitesmoke;
+}
+th {
+width: 130px;
+color: #9A3333;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
