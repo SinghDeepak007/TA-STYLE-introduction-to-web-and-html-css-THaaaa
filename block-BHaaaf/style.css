@@ -1,0 +1,13 @@
+body {
+    background-color: aqua; 
+}
+.heading {
+    color: crimson;
+    font-size: 60px;
+}
+#unique {
+    color: blueviolet;
+}
+p {
+    font-size: 30px;
+}
